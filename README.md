@@ -1,2 +1,2 @@
 # LeetCode
-Solutions to LeetCode by Java, Js, and Python
+✍🏻 Solutions to LeetCode by Java, Js, and Python
