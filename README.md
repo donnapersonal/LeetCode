@@ -9,5 +9,5 @@ Solutions to LeetCode by Java, JS, and Python
 ### LeetCode
 
 |	No. |	Title |	Solution | Tags | Difficulty |
-|	--- |	--- | --- | --- | --- | --- |
+|	--- |	--- | --- | --- | --- |
 |	01 | 两数之和 | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01.Two_Sum.md) | Array、HashMap | Easy |
