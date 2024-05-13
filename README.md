@@ -4,9 +4,9 @@ Solutions to LeetCode by Java, JS, and Python
 
 ### Notes
 
-[数据结构与算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/data_structure_and_algorithm.md)
-[时间复杂度和空间复杂度](https://github.com/donnapersonal/LeetCode/blob/main/notes/time_space_complexity.md)
-[数组](https://github.com/donnapersonal/LeetCode/blob/main/notes/array_basics.md)
+- [数据结构与算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/data_structure_and_algorithm.md)
+- [时间复杂度和空间复杂度](https://github.com/donnapersonal/LeetCode/blob/main/notes/time_space_complexity.md)
+- [数据结构 - 数组](https://github.com/donnapersonal/LeetCode/blob/main/notes/array_basics.md)
 
 ### LeetCode
 
