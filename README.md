@@ -14,3 +14,4 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	01 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01.two_sum.md) | Array、HashMap | Easy |
 |	02 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/02.best_time_to_buy_and_sell_stock.md) | Array、DP | Easy |
+|	03 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/03.majority_element.md) | Array、HashMap、Moore's Voting Algorithm | Easy |
