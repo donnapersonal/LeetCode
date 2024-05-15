@@ -12,6 +12,10 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	01 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01.two_sum.md) | Array、HashMap | Easy |
-|	02 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/02.best_time_to_buy_and_sell_stock.md) | Array、DP | Easy |
-|	03 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/03.majority_element.md) | Array、HashMap、Moore's Voting Algorithm | Easy |
+|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | Array、HashMap | Easy |
+|	0121 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0121.best_time_to_buy_and_sell_stock.md) | Array、DP | Easy |
+|	0169 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0169.majority_element.md) | Array、HashMap、Moore's Voting Algorithm | Easy |
+|	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0217.contains_duplicate.md) | Array、HashMap、排序 | Easy |
+|	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0252.meeting_rooms.md) | Array、排序 | Easy |
+|	0057 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
+|	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3_sum.md) | Array、HashMap、双指针、排序 | Medium |
