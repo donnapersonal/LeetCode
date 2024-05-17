@@ -10,6 +10,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [栈和队列](https://github.com/donnapersonal/LeetCode/blob/main/notes/stack_and_queue_basics.md)
 - [链表](https://github.com/donnapersonal/LeetCode/blob/main/notes/linked_list_basics.md)
 - [哈希表](https://github.com/donnapersonal/LeetCode/blob/main/notes/hash_table.basics.md)
+- [树](https://github.com/donnapersonal/LeetCode/blob/main/notes/tree_basics.md)
 - [双指针法](https://github.com/donnapersonal/LeetCode/blob/main/notes/two_pointer.md)
 
 ### LeetCodes
