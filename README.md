@@ -19,7 +19,8 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | Array、哈希表、双指针 | Easy |
+|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | Array、哈希表 | Easy |
+|	0027 | Remove Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0027.remove_element.md) | Array、双指针 | Easy |
 |	0121 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0121.best_time_to_buy_and_sell_stock.md) | Array、DP | Easy |
 |	0169 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0169.majority_element.md) | Array、哈希表、Moore's Voting Algorithm | Easy |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0217.contains_duplicate.md) | Array、哈希表、排序 | Easy |
