@@ -29,9 +29,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0252.meeting_rooms.md) | Array、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | Array、双指针 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
-|	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
+|	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
