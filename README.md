@@ -15,8 +15,11 @@ Solutions to LeetCode by Java, JS, and Python
 - [图](https://github.com/donnapersonal/LeetCode/blob/main/notes/graphic_basics.md)
 - [双指针法](https://github.com/donnapersonal/LeetCode/blob/main/notes/two_pointer.md)
 - [二分查找](https://github.com/donnapersonal/LeetCode/blob/main/notes/binary_search.md)
+- [一个方法解决 nSum 问题](https://github.com/donnapersonal/LeetCode/blob/main/notes/n_sum.md)
 
 ### LeetCodes
+
+#### 数组
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
@@ -29,15 +32,27 @@ Solutions to LeetCode by Java, JS, and Python
 |	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0252.meeting_rooms.md) | Array、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | Array、双指针 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
+|	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/merge_two_order_array.md) | Array、双指针 | / |
 |	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
+
+#### 字符串
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+
+#### 链表
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0707 | Design Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0707.design_linked_list.md) | 链表、设计 | Medium |
 
 
 
