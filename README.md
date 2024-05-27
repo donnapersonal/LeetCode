@@ -52,6 +52,8 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、双指针、递归 | Easy |
+|	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	0707 | Design Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0707.design_linked_list.md) | 链表、设计 | Medium |
 
 
