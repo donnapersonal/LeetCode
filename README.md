@@ -54,7 +54,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
 |	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
-|	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0083.remove_duplicates_from_sorted_list) | 链表、双指针 | Easy |
+|	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	0707 | Design Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0707.design_linked_list.md) | 链表、设计 | Medium |
