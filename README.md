@@ -55,11 +55,16 @@ Solutions to LeetCode by Java, JS, and Python
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
 |	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
+|	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
+|	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Easy |
+|	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
+|	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
+|	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	0707 | Design Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0707.design_linked_list.md) | 链表、设计 | Medium |
-
-
+|	0023 |  Merge k Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0023.merge_k_sorted_lists.md) | 链表、分治、堆（优先队列）、归并排序 | Hard |
+    
 
 
 
