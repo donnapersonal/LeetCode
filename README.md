@@ -19,6 +19,12 @@ Solutions to LeetCode by Java, JS, and Python
 
 ### LeetCodes
 
+#### 数学
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
+
 #### 数组
 
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -31,6 +37,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0217.contains_duplicate.md) | Array、哈希表、排序 | Easy |
 |	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0252.meeting_rooms.md) | Array、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | Array、双指针 | Easy |
+|	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0349.intersection_of_two_arrays.md) | Array、哈希表、双指针 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
 |	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/merge_two_order_array.md) | Array、双指针 | / |
 |	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
@@ -45,9 +52,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0242 | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
-|	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
+|	0344 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
-|	0151 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
+|	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 
 #### 链表
 
