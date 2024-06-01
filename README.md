@@ -32,27 +32,35 @@ Solutions to LeetCode by Java, JS, and Python
 |	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | Array、哈希表 | Easy |
 |	0026 | Remove Duplicates from Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0026.remove_duplicates_from_sorted_array.md) | Array、双指针 | Easy |
 |	0027 | Remove Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0027.remove_element.md) | Array、双指针 | Easy |
+|	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0035.search_insert_position.md) | Array、二分查找 | Easy |
 |	0121 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0121.best_time_to_buy_and_sell_stock.md) | Array、DP | Easy |
 |	0169 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0169.majority_element.md) | Array、哈希表、Moore's Voting Algorithm | Easy |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0217.contains_duplicate.md) | Array、哈希表、排序 | Easy |
 |	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0252.meeting_rooms.md) | Array、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | Array、双指针 | Easy |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0349.intersection_of_two_arrays.md) | Array、哈希表、双指针 | Easy |
+|	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0704.binary_search.md) | Array、二分查找 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
 |	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/merge_two_order_array.md) | Array、双指针 | / |
+|	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | Array、二分查找 | Medium |
 |	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
 
+#### 二维数组
+
+
 #### 字符串
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
-|	0242 | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
-|	0344 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
+|	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
+|	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
+|	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
+|	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
