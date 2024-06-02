@@ -15,6 +15,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [图](https://github.com/donnapersonal/LeetCode/blob/main/notes/graphic_basics.md)
 - [双指针法](https://github.com/donnapersonal/LeetCode/blob/main/notes/two_pointer.md)
 - [二分查找](https://github.com/donnapersonal/LeetCode/blob/main/notes/binary_search.md)
+- [Brute Force 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/brute_force.md)
 - [一个方法解决 nSum 问题](https://github.com/donnapersonal/LeetCode/blob/main/notes/n_sum.md)
 
 ### LeetCodes
@@ -24,6 +25,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
+|	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
+|	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
 
 #### 数组
 
