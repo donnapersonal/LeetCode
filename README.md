@@ -51,6 +51,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
+|	1011 | Capacity To Ship Packages Within D Days| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
+
+
 
 #### 二维数组
 
