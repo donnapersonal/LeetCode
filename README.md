@@ -49,14 +49,16 @@ Solutions to LeetCode by Java, JS, and Python
 |	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
-|	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
-|	1011 | Capacity To Ship Packages Within D Days| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
-
-
+|	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
+|	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
+|	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
+|	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
 
 #### 二维数组
-
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0048 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0048.rotate_image.md) | Array、数学、矩阵 | Medium |
 
 #### 字符串
 
