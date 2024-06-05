@@ -16,6 +16,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [双指针法](https://github.com/donnapersonal/LeetCode/blob/main/notes/two_pointer.md)
 - [二分查找](https://github.com/donnapersonal/LeetCode/blob/main/notes/binary_search.md)
 - [Brute Force 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/brute_force.md)
+- [滑动窗口](https://github.com/donnapersonal/LeetCode/blob/main/notes/sliding_window.md)
 - [一个方法解决 nSum 问题](https://github.com/donnapersonal/LeetCode/blob/main/notes/n_sum.md)
 
 ### LeetCodes
@@ -59,6 +60,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0048 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0048.rotate_image.md) | Array、数学、矩阵 | Medium |
+|	0054 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0054.spiral_matrix.md) | Array、数学、矩阵 | Medium |
+|	0059 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0059.spiral_matrix_II.md) | Array、数学、矩阵 | Medium |
 
 #### 字符串
 
@@ -72,6 +75,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 
 #### 链表
 
@@ -85,6 +89,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Easy |
 |	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
 |	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归 | Medium |
+|	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
