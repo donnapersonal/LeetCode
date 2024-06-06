@@ -76,6 +76,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0567 | 567.Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 
 #### 链表
 
