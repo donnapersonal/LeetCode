@@ -70,9 +70,11 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
+|	0028 | Find the Index of the First Occurrence in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | 字符串、滑动窗口、双指针、字符串匹配算法 | Easy |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
+|	0459 | 459.Repeated Substring Pattern | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0459.repeated_substring_pattern.md) | 字符串、字符串匹配 | Easy |
 |	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
 |	0003 | Longest Substring Without Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0003.longest_substring_without_repeating_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
