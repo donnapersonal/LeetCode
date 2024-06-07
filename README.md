@@ -16,6 +16,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [双指针法](https://github.com/donnapersonal/LeetCode/blob/main/notes/two_pointer.md)
 - [二分查找](https://github.com/donnapersonal/LeetCode/blob/main/notes/binary_search.md)
 - [Brute Force 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/brute_force.md)
+- [KMP 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/kmp.md)
 - [滑动窗口](https://github.com/donnapersonal/LeetCode/blob/main/notes/sliding_window.md)
 - [一个方法解决 nSum 问题](https://github.com/donnapersonal/LeetCode/blob/main/notes/n_sum.md)
 
@@ -51,6 +52,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
+|	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | Array、二分查找、前缀和、滑动窗口 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
@@ -72,6 +74,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
+|	0003 | Longest Substring Without Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0003.longest_substring_without_repeating_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
