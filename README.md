@@ -38,6 +38,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0026 | Remove Duplicates from Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0026.remove_duplicates_from_sorted_array.md) | Array、双指针 | Easy |
 |	0027 | Remove Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0027.remove_element.md) | Array、双指针 | Easy |
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0035.search_insert_position.md) | Array、二分查找 | Easy |
+|	0088 | Merge Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0088.merge_sorted_array.md) | Array、双指针 | Easy |
 |	0121 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0121.best_time_to_buy_and_sell_stock.md) | Array、DP | Easy |
 |	0169 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0169.majority_element.md) | Array、哈希表、Moore's Voting Algorithm | Easy |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0217.contains_duplicate.md) | Array、哈希表、排序 | Easy |
@@ -54,6 +55,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
 |	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | Array、二分查找、前缀和、滑动窗口 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
+|	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0360.sort_transformed_array.md) | Array、数学、双指针 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
