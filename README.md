@@ -44,6 +44,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0217.contains_duplicate.md) | Array、哈希表、排序 | Easy |
 |	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0252.meeting_rooms.md) | Array、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | Array、双指针 | Easy |
+|	0303 | Range Sum Query - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0303.range_sum_query-immutable.md) | Array、前缀和 | Easy |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0349.intersection_of_two_arrays.md) | Array、哈希表、双指针 | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0704.binary_search.md) | Array、二分查找 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
@@ -63,6 +64,7 @@ Solutions to LeetCode by Java, JS, and Python
 #### 二维数组
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1260.shift_2D_grid.md) | Array、双指针 | Easy |
 |	0048 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0048.rotate_image.md) | Array、数学、矩阵 | Medium |
 |	0054 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0054.spiral_matrix.md) | Array、数学、矩阵 | Medium |
 |	0059 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0059.spiral_matrix_II.md) | Array、数学、矩阵 | Medium |
