@@ -68,6 +68,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0048 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0048.rotate_image.md) | Array、数学、矩阵 | Medium |
 |	0054 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0054.spiral_matrix.md) | Array、数学、矩阵 | Medium |
 |	0059 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0059.spiral_matrix_II.md) | Array、数学、矩阵 | Medium |
+|	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | Array、数学、矩阵、前缀和 | Medium |
 
 #### 字符串
 
