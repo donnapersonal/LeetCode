@@ -47,6 +47,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0303 | Range Sum Query - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0303.range_sum_query-immutable.md) | Array、前缀和 | Easy |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0349.intersection_of_two_arrays.md) | Array、哈希表、双指针 | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0704.binary_search.md) | Array、二分查找 | Easy |
+|	0724 | 724.Find Pivot Index | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0724.find_pivot_index.md) | Array、前缀和 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
 |	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/merge_two_order_array.md) | Array、双指针 | / |
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | Array、二分查找 | Medium |
@@ -55,8 +56,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
 |	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | Array、二分查找、前缀和、滑动窗口 | Medium |
-|	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀和 | Medium |
+|	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀积 | Medium |
+|	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | Array、前缀和 | Medium |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0360.sort_transformed_array.md) | Array、数学、双指针 | Medium |
+|	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
@@ -69,6 +72,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0054 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0054.spiral_matrix.md) | Array、数学、矩阵 | Medium |
 |	0059 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0059.spiral_matrix_II.md) | Array、数学、矩阵 | Medium |
 |	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | Array、数学、矩阵、前缀和 | Medium |
+|	1314 | Matrix Block Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1314.matrix_block_sum.md) | Array、数学、矩阵、前缀和 | Medium |
 
 #### 字符串
 
