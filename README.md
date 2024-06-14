@@ -68,7 +68,6 @@ Solutions to LeetCode by Java, JS, and Python
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1124.longest_well-performing_interval.md) | Array、哈希表、前缀和 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | Array、哈希表、二分查找、前缀和、滑动窗口 | Medium |
-
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
 
 #### 二维数组
