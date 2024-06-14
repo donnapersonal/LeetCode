@@ -59,7 +59,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀积 | Medium |
 |	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | Array、前缀和 | Medium |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0360.sort_transformed_array.md) | Array、数学、双指针 | Medium |
+|	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0523.continuous_subarray_sum.md) | Array、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
+|	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0560.subarray_sum_equals_K.md) | Array、哈希表、前缀和 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/01011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
