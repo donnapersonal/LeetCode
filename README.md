@@ -66,7 +66,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0713.subarray_product_less_than_K.md) | Array、滑动窗口 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
 |	0974 | 974.Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | Array、哈希表、前缀和 | Medium |
+|	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1004.max_consecutive_ones_III.md) | Array、滑动窗口 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
+|	1094 | Car Pooling | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1094.car_pooling.md) | Array、差分数组 | Medium |
+|	1109 | Corporate Flight Bookings | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1109.corporate_flight_bookings.md) | Array、差分数组 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1124.longest_well-performing_interval.md) | Array、哈希表、前缀和 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | Array、哈希表、二分查找、前缀和、滑动窗口 | Medium |
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
@@ -96,6 +99,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0567 | 567.Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
