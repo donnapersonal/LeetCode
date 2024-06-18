@@ -66,10 +66,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0560.subarray_sum_equals_K.md) | Array、哈希表、前缀和 | Medium |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0713.subarray_product_less_than_K.md) | Array、滑动窗口 | Medium |
-|	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分搜索 | Medium |
+|	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分查找 | Medium |
 |	0974 | 974.Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | Array、哈希表、前缀和 | Medium |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1004.max_consecutive_ones_III.md) | Array、滑动窗口 | Medium |
-|	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | Array、二分搜索 | Medium |
+|	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | Array、二分查找 | Medium |
 |	1094 | Car Pooling | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1094.car_pooling.md) | Array、差分数组 | Medium |
 |	1109 | Corporate Flight Bookings | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1109.corporate_flight_bookings.md) | Array、差分数组 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1124.longest_well-performing_interval.md) | Array、哈希表、前缀和 | Medium |
@@ -84,6 +84,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0048 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0048.rotate_image.md) | Array、数学、矩阵 | Medium |
 |	0054 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0054.spiral_matrix.md) | Array、数学、矩阵 | Medium |
 |	0059 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0059.spiral_matrix_II.md) | Array、数学、矩阵 | Medium |
+|	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | Array、矩阵、二分查找 | Medium |
 |	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | Array、数学、矩阵、前缀和 | Medium |
 |	1314 | Matrix Block Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1314.matrix_block_sum.md) | Array、数学、矩阵、前缀和 | Medium |
 
