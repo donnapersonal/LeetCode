@@ -17,6 +17,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [二分查找](https://github.com/donnapersonal/LeetCode/blob/main/notes/binary_search.md)
 - [Brute Force 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/brute_force.md)
 - [KMP 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/kmp.md)
+- [Rabin Karp 算法](https://github.com/donnapersonal/LeetCode/blob/main/notes/rabin-karp.md)
 - [滑动窗口](https://github.com/donnapersonal/LeetCode/blob/main/notes/sliding_window.md)
 - [一个方法解决 nSum 问题](https://github.com/donnapersonal/LeetCode/blob/main/notes/n_sum.md)
 
@@ -73,6 +74,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1109 | Corporate Flight Bookings | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1109.corporate_flight_bookings.md) | Array、差分数组 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1124.longest_well-performing_interval.md) | Array、哈希表、前缀和 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | Array、哈希表、二分查找、前缀和、滑动窗口 | Medium |
+|	0220 | Contains Duplicate III | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0220.contains_duplicate_III.md) | Array、二叉树搜索、桶排序、滑动窗口 | Hard |
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
 
 #### 二维数组
@@ -100,6 +102,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0187 | Repeated DNA Sequences | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0187.repeated_DNA_sequences.md) | 字符串、RK 算法 | Medium |
+|	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0395 | Longest Substring with At Least K Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0395._longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0567 | 567.Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
