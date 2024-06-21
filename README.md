@@ -65,6 +65,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0523.continuous_subarray_sum.md) | Array、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0560.subarray_sum_equals_K.md) | Array、哈希表、前缀和 | Medium |
+|	0658 | 658.Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0658.find_K_closest_elements.md) | Array、双指针、二分查找 | Medium |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0713.subarray_product_less_than_K.md) | Array、滑动窗口 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分查找 | Medium |
 |	0974 | 974.Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | Array、哈希表、前缀和 | Medium |
@@ -85,6 +86,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0054 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0054.spiral_matrix.md) | Array、数学、矩阵 | Medium |
 |	0059 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0059.spiral_matrix_II.md) | Array、数学、矩阵 | Medium |
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | Array、矩阵、二分查找 | Medium |
+|	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | Array、矩阵、二分查找、双指针 | Medium |
 |	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | Array、数学、矩阵、前缀和 | Medium |
 |	1314 | Matrix Block Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1314.matrix_block_sum.md) | Array、数学、矩阵、前缀和 | Medium |
 
