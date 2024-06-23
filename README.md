@@ -52,11 +52,13 @@ Solutions to LeetCode by Java, JS, and Python
 |	0724 | 724.Find Pivot Index | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0724.find_pivot_index.md) | Array、前缀和 | Easy |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | Array、双指针 | Easy |
 |	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/merge_two_order_array.md) | Array、双指针 | / |
+|	0033 | Search in Rotated Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0033.search_in_rotated_sorted_array.md) | Array、二分查找 | Medium |
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | Array、二分查找 | Medium |
 |	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0057.insert_interval.md) | Array、扫描 | Medium |
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
+|	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0162.find_peak_element.md) | Array、二分查找 | Medium |
 |	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | Array、二分查找、前缀和、滑动窗口 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀积 | Medium |
 |	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | Array、前缀和 | Medium |
@@ -67,6 +69,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0560.subarray_sum_equals_K.md) | Array、哈希表、前缀和 | Medium |
 |	0658 | 658.Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0658.find_K_closest_elements.md) | Array、双指针、二分查找 | Medium |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0713.subarray_product_less_than_K.md) | Array、滑动窗口 | Medium |
+|	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | Array、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分查找 | Medium |
 |	0974 | 974.Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | Array、哈希表、前缀和 | Medium |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1004.max_consecutive_ones_III.md) | Array、滑动窗口 | Medium |
