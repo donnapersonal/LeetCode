@@ -58,6 +58,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | Array、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0018.4sum.md) | Array、双指针 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0039.combination_sum.md) | Array、回溯 | Medium |
+|	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | Array、二分查找 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0162.find_peak_element.md) | Array、二分查找 | Medium |
 |	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | Array、二分查找、前缀和、滑动窗口 | Medium |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0238.product_of_array_except_self.md) | Array、前缀积 | Medium |
