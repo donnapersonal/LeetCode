@@ -67,10 +67,12 @@ Solutions to LeetCode by Java, JS, and Python
 |	0370 | Range Addition | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0370.range_addition.md) | Array、差分数组 | Medium |
 |	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0523.continuous_subarray_sum.md) | Array、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
+|	0528 | Random Pick with Weight | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0528.random_pick_with_weight.md) | Array、前缀和、二分查找 | Medium |
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0560.subarray_sum_equals_K.md) | Array、哈希表、前缀和 | Medium |
 |	0658 | 658.Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0658.find_K_closest_elements.md) | Array、双指针、二分查找 | Medium |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0713.subarray_product_less_than_K.md) | Array、滑动窗口 | Medium |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | Array、二分查找 | Medium |
+|	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0870.advantage_shuffle.md) | Array、双指针 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0875.koko_eating_bananas.md) | Array、二分查找 | Medium |
 |	0974 | 974.Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | Array、哈希表、前缀和 | Medium |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1004.max_consecutive_ones_III.md) | Array、滑动窗口 | Medium |
