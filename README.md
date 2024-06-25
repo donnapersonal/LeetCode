@@ -84,6 +84,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | Array、哈希表、二分查找、前缀和、滑动窗口 | Medium |
 |	0220 | Contains Duplicate III | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0220.contains_duplicate_III.md) | Array、二叉树搜索、桶排序、滑动窗口 | Hard |
 |	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0410.split_array_largest_sum.md) | Array、贪心、二分查找、DP、前缀和 | Hard |
+|	0710 | Random Pick with Blacklist | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0710.random_pick_with_blacklist.md) | Array、数学、随机算法 | Hard |
 
 #### 二维数组
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -95,6 +96,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | Array、矩阵、二分查找 | Medium |
 |	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | Array、矩阵、二分查找、双指针 | Medium |
 |	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | Array、数学、矩阵、前缀和 | Medium |
+|	0519 | Random Flip Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0519.random_flip_matrix.md) | Array、数学、哈希表 | Medium |
 |	1314 | Matrix Block Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1314.matrix_block_sum.md) | Array、数学、矩阵、前缀和 | Medium |
 
 #### 字符串
