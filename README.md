@@ -65,6 +65,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | Array、前缀和 | Medium |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0360.sort_transformed_array.md) | Array、数学、双指针 | Medium |
 |	0370 | Range Addition | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0370.range_addition.md) | Array、差分数组 | Medium |
+|	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | Array、数学、设计、哈希表 | Medium |
 |	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0523.continuous_subarray_sum.md) | Array、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
 |	0528 | Random Pick with Weight | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0528.random_pick_with_weight.md) | Array、前缀和、二分查找 | Medium |
