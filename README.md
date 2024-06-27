@@ -115,11 +115,13 @@ Solutions to LeetCode by Java, JS, and Python
 |	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0049.group_anagrams.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0187 | Repeated DNA Sequences | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0187.repeated_DNA_sequences.md) | 字符串、RK 算法 | Medium |
+|	0316 | Remove Duplicate Letters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0316.remove_duplicate_letters.md) | 字符串、栈、贪心 | Medium |
 |	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0395 | Longest Substring with At Least K Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0395._longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0567 | 567.Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	1081 | Smallest Subsequence of Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1081.smallest_subsequence_of_distinct_characters.md) | 字符串、栈、贪心 | Medium |
 |	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 
 #### 链表
