@@ -65,6 +65,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | Array、前缀和 | Medium |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0360.sort_transformed_array.md) | Array、数学、双指针 | Medium |
 |	0370 | Range Addition | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0370.range_addition.md) | Array、差分数组 | Medium |
+|	0373 | Find K Pairs with Smallest Sums | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0373.find_K_pairs_with_smallest_sums.md) | Array、链表双指针、堆（优先队列） | Medium |
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | Array、数学、设计、哈希表 | Medium |
 |	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0523.continuous_subarray_sum.md) | Array、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0525.contiguous_array.md) | Array、哈希表、前缀和 | Medium |
@@ -96,6 +97,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | Array、矩阵、二分查找 | Medium |
 |	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | Array、矩阵、二分查找、双指针 | Medium |
 |	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | Array、数学、矩阵、前缀和 | Medium |
+|	0378 | Kth Smallest Element in a Sorted Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0378.Kth_smallest_element_in_a_sorted_matrix.md) | Array、矩阵、链表双指针、堆（优先队列）、二分查找 | Medium |
 |	0519 | Random Flip Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0519.random_flip_matrix.md) | Array、数学、哈希表 | Medium |
 |	1314 | Matrix Block Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1314.matrix_block_sum.md) | Array、数学、矩阵、前缀和 | Medium |
 
@@ -133,16 +135,21 @@ Solutions to LeetCode by Java, JS, and Python
 |	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
 |	0141 | Linked List Cycle | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0141.linked_list_cycle.md) | 链表、双指针 | Easy |
 |	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
+|	0234 | Palindrome Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
 |	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Easy |
 |	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
-|	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归 | Medium |
+|	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归、迭代 | Medium |
 |	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	0142 | Linked List Cycle II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
+|	0264 | Ugly Number II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0264.ugly_number_II.md) | 链表、数学、双指针、动态规划 | Medium |
 |	0707 | Design Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0707.design_linked_list.md) | 链表、设计 | Medium |
+|	1836 | 1836.Remove Duplicates From an Unsorted Linked List | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1836.remove_duplicates_from_an_unsorted_linked_list.md) | 链表、链表双指针 | Medium |
 |	0023 |  Merge k Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0023.merge_k_sorted_lists.md) | 链表、分治、堆（优先队列）、归并排序 | Hard |
+|	0025 | Reverse Nodes in k-Group | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0025.reverse_nodes_in_k-Group.md) | 链表、递归、双指针 | Hard |
+
     
 
 
