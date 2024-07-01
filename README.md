@@ -150,6 +150,13 @@ Solutions to LeetCode by Java, JS, and Python
 |	0023 |  Merge k Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0023.merge_k_sorted_lists.md) | 链表、分治、堆（优先队列）、归并排序 | Hard |
 |	0025 | Reverse Nodes in k-Group | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0025.reverse_nodes_in_k-Group.md) | 链表、递归、双指针 | Hard |
 
+#### 栈/队列
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0232 | Implement Queue using Stacks | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0232.implement_queue_using_stacks.md) | 设计、栈、队列 | Easy |
+
+
     
 
 

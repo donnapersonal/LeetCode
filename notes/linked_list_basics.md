@@ -166,3 +166,410 @@ node1.next = node3.next;
 > **数组**在定义时，**长度就是`固定`的**，若想改动数组的长度，就需重新定义一个新的数组
 > 
 > **链表**的长度可以是不固定的且可以`动态增删`，适合数据量不固定、频繁增删、较少查询的场景
+
+### 单链表代码实现
+
+```java
+import java.util.NoSuchElementException;
+
+public class MyLinkedList2<E> {
+
+    private static class Node<E> {
+        E val;
+        Node<E> next;
+
+        Node(E val) {
+            this.val = val;
+            this.next = null;
+        }
+    }
+
+    private Node<E> head;
+    private Node<E> tail; // 实际的尾部节点引用
+    private int size;
+
+    public MyLinkedList2() {
+        this.head = new Node<>(null);
+        this.tail = head;
+        this.size = 0;
+    }
+
+    public void addFirst(E e) {
+        Node<E> newNode = new Node<>(e);
+        newNode.next = head.next;
+        head.next = newNode;
+        if (size == 0) {
+            tail = newNode;
+        }
+        size++;
+    }
+
+    public void addLast(E e) {
+        Node<E> newNode = new Node<>(e);
+        tail.next = newNode;
+        tail = newNode;
+        size++;
+    }
+
+    public void add(int index, E element) {
+        checkPositionIndex(index);
+
+        if (index == size) {
+            addLast(element);
+            return;
+        }
+
+        Node<E> prev = head;
+        for (int i = 0; i < index; i++) {
+            prev = prev.next;
+        }
+        Node<E> newNode = new Node<>(element);
+        newNode.next = prev.next;
+        prev.next = newNode;
+        size++;
+    }
+
+    public E removeFirst() {
+        if (isEmpty()) {
+            throw new NoSuchElementException();
+        }
+        Node<E> first = head.next;
+        head.next = first.next;
+        if (size == 1) {
+            tail = head;
+        }
+        size--;
+        return first.val;
+    }
+
+    public E removeLast() {
+        if (isEmpty()) {
+            throw new NoSuchElementException();
+        }
+
+        Node<E> prev = head;
+        while (prev.next != tail) {
+            prev = prev.next;
+        }
+        E val = tail.val;
+        prev.next = null;
+        tail = prev;
+        size--;
+        return val;
+    }
+
+    public E remove(int index) {
+        checkElementIndex(index);
+
+        Node<E> prev = head;
+        for (int i = 0; i < index; i++) {
+            prev = prev.next;
+        }
+
+        Node<E> nodeToRemove = prev.next;
+        prev.next = nodeToRemove.next;
+        if (index == size - 1) { // 删除的是最后一个元素
+            tail = prev;
+        }
+        size--;
+        return nodeToRemove.val;
+    }
+
+    // 查
+    public E getFirst() {
+        if (isEmpty()) {
+            throw new NoSuchElementException();
+        }
+        return head.next.val;
+    }
+
+    public E getLast() {
+        if (isEmpty()) {
+            throw new NoSuchElementException();
+        }
+        return getNode(size - 1).val;
+    }
+
+    public E get(int index) {
+        checkElementIndex(index);
+        Node<E> p = getNode(index);
+        return p.val;
+    }
+
+    // 改
+    public E set(int index, E element) {
+        checkElementIndex(index);
+        Node<E> p = getNode(index);
+
+        E oldVal = p.val;
+        p.val = element;
+
+        return oldVal;
+    }
+
+    public int size() {
+        return size;
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    private boolean isElementIndex(int index) {
+        return index >= 0 && index < size;
+    }
+
+    private boolean isPositionIndex(int index) {
+        return index >= 0 && index <= size;
+    }
+
+    // 检查 index 索引位置是否可以存在元素
+    private void checkElementIndex(int index) {
+        if (!isElementIndex(index))
+            throw new IndexOutOfBoundsException("Index: " + index + ", Size: " + size);
+    }
+
+    // 检查 index 索引位置是否可以添加元素
+    private void checkPositionIndex(int index) {
+        if (!isPositionIndex(index))
+            throw new IndexOutOfBoundsException("Index: " + index + ", Size: " + size);
+    }
+
+    // 返回 index 对应的 Node
+    // 注意：请保证传入的 index 是合法的
+    private Node<E> getNode(int index) {
+        Node<E> p = head.next;
+        for (int i = 0; i < index; i++) {
+            p = p.next;
+        }
+        return p;
+    }
+}
+```
+
+### 双链表代码实现
+
+```java
+
+import java.util.NoSuchElementException;
+
+public class MyLinkedList<E> {
+    // 虚拟头尾节点
+    final private Node<E> head, tail;
+    private int size;
+
+    // 双链表节点
+    private static class Node<E> {
+        E val;
+        Node<E> next;
+        Node<E> prev;
+
+        Node(E val) {
+            this.val = val;
+        }
+    }
+
+    // 构造函数初始化虚拟头尾节点
+    public MyLinkedList() {
+        this.head = new Node<>(null);
+        this.tail = new Node<>(null);
+        head.next = tail;
+        tail.prev = head;
+        this.size = 0;
+    }
+
+    // 增
+    public void addLast(E e) {
+        Node<E> x = new Node<>(e);
+        Node<E> temp = tail.prev;
+        // temp <-> tail
+        temp.next = x;
+        x.prev = temp;
+
+        x.next = tail;
+        tail.prev = x;
+        // temp <-> x <-> tail
+        size++;
+    }
+
+    public void addFirst(E e) {
+        Node<E> x = new Node<>(e);
+        Node<E> temp = head.next;
+        // head <-> temp
+        temp.prev = x;
+        x.next = temp;
+
+        head.next = x;
+        x.prev = head;
+        // head <-> x <-> temp
+        size++;
+    }
+
+    public void add(int index, E element) {
+        checkPositionIndex(index);
+        if (index == size) {
+            addLast(element);
+            return;
+        }
+
+        // 找到 index 对应的 Node
+        Node<E> p = getNode(index);
+        Node<E> temp = p.prev;
+        // temp <-> p
+
+        // 新要插入的 Node
+        Node<E> x = new Node<>(element);
+
+        p.prev = x;
+        temp.next = x;
+
+        x.prev = temp;
+        x.next = p;
+
+        // temp <-> x <-> p
+
+        size++;
+    }
+
+    // 删
+    public E removeFirst() {
+        if (size < 1) {
+            throw new NoSuchElementException();
+        }
+        // 虚拟节点的存在是我们不用考虑空指针的问题
+        Node<E> x = head.next;
+        Node<E> temp = x.next;
+        // head <-> x <-> temp
+        head.next = temp;
+        temp.prev = head;
+
+        x.prev = null;
+        x.next = null;
+        // head <-> temp
+
+        size--;
+        return x.val;
+    }
+
+    public E removeLast() {
+        if (size < 1) {
+            throw new NoSuchElementException();
+        }
+        Node<E> x = tail.prev;
+        Node<E> temp = tail.prev.prev;
+        // temp <-> x <-> tail
+
+        tail.prev = temp;
+        temp.next = tail;
+
+        x.prev = null;
+        x.next = null;
+        // temp <-> tail
+
+        size--;
+        return x.val;
+    }
+
+    public E remove(int index) {
+        checkElementIndex(index);
+        // 找到 index 对应的 Node
+        Node<E> x = getNode(index);
+        Node<E> prev = x.prev;
+        Node<E> next = x.next;
+        // prev <-> x <-> next
+        prev.next = next;
+        next.prev = prev;
+
+        x.prev = x.next = null;
+        // prev <-> next
+
+        size--;
+
+        return x.val;
+    }
+
+    // 查
+    public E get(int index) {
+        checkElementIndex(index);
+        // 找到 index 对应的 Node
+        Node<E> p = getNode(index);
+
+        return p.val;
+    }
+
+    public E getFirst() {
+        if (size < 1) {
+            throw new NoSuchElementException();
+        }
+
+        return head.next.val;
+    }
+
+    public E getLast() {
+        if (size < 1) {
+            throw new NoSuchElementException();
+        }
+
+        return tail.prev.val;
+    }
+
+    // 改
+    public E set(int index, E val) {
+        checkElementIndex(index);
+        // 找到 index 对应的 Node
+        Node<E> p = getNode(index);
+
+        E oldVal = p.val;
+        p.val = val;
+
+        return oldVal;
+    }
+
+    public int size() {
+        return size;
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    private Node<E> getNode(int index) {
+        checkElementIndex(index);
+        Node<E> p = head.next;
+        // TODO: 可以优化，通过 index 判断从 head 还是 tail 开始遍历
+        for (int i = 0; i < index; i++) {
+            p = p.next;
+        }
+        return p;
+    }
+
+    private boolean isElementIndex(int index) {
+        return index >= 0 && index < size;
+    }
+
+    private boolean isPositionIndex(int index) {
+        return index >= 0 && index <= size;
+    }
+
+    // 检查 index 索引位置是否可以存在元素
+    private void checkElementIndex(int index) {
+        if (!isElementIndex(index))
+            throw new IndexOutOfBoundsException("Index: " + index + ", Size: " + size);
+    }
+
+    // 检查 index 索引位置是否可以添加元素
+    private void checkPositionIndex(int index) {
+        if (!isPositionIndex(index))
+            throw new IndexOutOfBoundsException("Index: " + index + ", Size: " + size);
+    }
+
+    private void display() {
+        System.out.println("size = " + size);
+        for (Node<E> p = head.next; p != tail; p = p.next) {
+            System.out.print(p.val + " -> ");
+        }
+        System.out.println("null");
+        System.out.println();
+    }
+}
+```
